@@ -1,6 +1,6 @@
 package com.vp.learning.java;
 
-public class Student {
+public class Student01 {
     protected String name;
     private String gender;
     private int age;
